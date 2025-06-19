@@ -1,3 +1,3 @@
 print("hello")
-list=["apple","banana","kela"]
+list=["apple","banana","papaya"]
 print(list)
